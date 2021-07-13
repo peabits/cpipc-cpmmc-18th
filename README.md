@@ -2,4 +2,4 @@
 
 第十八届中国研究生数学建模竞赛
 
-<https://github.com/peabits/cpipc-cpmmc-18th/wiki>
+[wiki](https://github.com/peabits/cpipc-cpmmc-18th/wiki)
