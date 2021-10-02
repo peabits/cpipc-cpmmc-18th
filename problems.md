@@ -195,3 +195,5 @@
 2004C：售后服务数据的运用
 
 2004D：研究生录取问题
+
+[wiki](https://github.com/peabits/cpipc-cpmmc-18th/wiki)
